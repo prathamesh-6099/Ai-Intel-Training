@@ -3,3 +3,4 @@ my_models
 .python-version
 my_models/
 .ipynb_checkpoints/
+.env

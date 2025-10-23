@@ -2,6 +2,10 @@
 """
 Text inference script for Groq's Llama 3 70B model
 """
+# extra from my side 
+from dotenv import load_dotenv
+load_dotenv()
+
 
 import os
 import argparse
